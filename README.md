@@ -5,9 +5,9 @@ Face detection also refers to the psychological process by which humans locate a
 
 # Module
 This piece of work is done in 3 phase
-Capture Face
-Train Data
-Recognize Face
+ Capture Face
+ Train Data
+ Recognize Face
 
 Load the files
 The output is generated
