@@ -7,11 +7,11 @@ Face detection also refers to the psychological process by which humans locate a
 
 This piece of work is done in 3 phase
 
-Capture Face,
+1.) Capture Face
 
-Train Data,
+2.) Train Data
 
-Recognize Face
+3.) Recognize Face
 
 Load the files
 
